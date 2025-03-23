@@ -1,8 +1,17 @@
-# Data Project Template
+# Retinal Image Analysis for Early CANCER RISK PREDICTION
 
-<a target="_blank" href="https://datalumina.com/">
-    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
-</a>
+Introduction:
+
+Overview:
+Cancer risk prediction using retinal imaging is an emerging field that explores the correlation between retinal biomarkers and systemic diseases, including cancer. This project leverages deep learning techniques to analyze retinal images and brain MRI scans to predict cancer risk.
+
+Objectives:
+Classify retinal diseases using deep learning.
+Classify brain tumors using MRI scans.
+Develop a relationship logic for cancer risk prediction.
+Evaluate model performance and analyze key findings.
+
+
 
 ## Cookiecutter Data Science
 This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
